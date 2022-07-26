@@ -1,0 +1,13 @@
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.csproj.AssemblyReference.cache
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.Form1.resources
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.Properties.Resources.resources
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.csproj.GenerateResource.cache
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.csproj.CoreCompileInputs.cache
+C:\Users\Chadowaker\source\repos\hopital\hopital\bin\Debug\hopital.exe.config
+C:\Users\Chadowaker\source\repos\hopital\hopital\bin\Debug\hopital.exe
+C:\Users\Chadowaker\source\repos\hopital\hopital\bin\Debug\hopital.pdb
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.exe
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.pdb
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.Home.resources
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.Form2.resources
+C:\Users\Chadowaker\source\repos\hopital\hopital\obj\Debug\hopital.Form3.resources
